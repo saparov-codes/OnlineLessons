@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8CC102-2DB5-4386-A44D-FB561CC2FFF3}|ExamVariant1\\ExamVariant1.csproj|d:\\github projects\\onlinelessons\\examvariant1\\examvariant1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8CC102-2DB5-4386-A44D-FB561CC2FFF3}|ExamVariant1\\ExamVariant1.csproj|solutionrelative:examvariant1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8CC102-2DB5-4386-A44D-FB561CC2FFF3}|ExamVariant1\\ExamVariant1.csproj|d:\\github projects\\onlinelessons\\examvariant1\\examvariant1\\examvariant1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F8CC102-2DB5-4386-A44D-FB561CC2FFF3}|ExamVariant1\\ExamVariant1.csproj|solutionrelative:examvariant1\\examvariant1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8CC102-2DB5-4386-A44D-FB561CC2FFF3}|ExamVariant1\\ExamVariant1.csproj|d:\\github projects\\onlinelessons\\examvariant1\\examvariant1\\services\\extensions\\musicdtoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8CC102-2DB5-4386-A44D-FB561CC2FFF3}|ExamVariant1\\ExamVariant1.csproj|solutionrelative:examvariant1\\services\\extensions\\musicdtoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8CC102-2DB5-4386-A44D-FB561CC2FFF3}|ExamVariant1\\ExamVariant1.csproj|d:\\github projects\\onlinelessons\\examvariant1\\examvariant1\\dataaccess\\entities\\musics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8CC102-2DB5-4386-A44D-FB561CC2FFF3}|ExamVariant1\\ExamVariant1.csproj|solutionrelative:examvariant1\\dataaccess\\entities\\musics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8CC102-2DB5-4386-A44D-FB561CC2FFF3}|ExamVariant1\\ExamVariant1.csproj|d:\\github projects\\onlinelessons\\examvariant1\\examvariant1\\services\\dtos\\musicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8CC102-2DB5-4386-A44D-FB561CC2FFF3}|ExamVariant1\\ExamVariant1.csproj|solutionrelative:examvariant1\\services\\dtos\\musicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8CC102-2DB5-4386-A44D-FB561CC2FFF3}|ExamVariant1\\ExamVariant1.csproj|d:\\github projects\\onlinelessons\\examvariant1\\examvariant1\\repositories\\musicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8CC102-2DB5-4386-A44D-FB561CC2FFF3}|ExamVariant1\\ExamVariant1.csproj|solutionrelative:examvariant1\\repositories\\musicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8CC102-2DB5-4386-A44D-FB561CC2FFF3}|ExamVariant1\\ExamVariant1.csproj|d:\\github projects\\onlinelessons\\examvariant1\\examvariant1\\repositories\\imusicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8CC102-2DB5-4386-A44D-FB561CC2FFF3}|ExamVariant1\\ExamVariant1.csproj|solutionrelative:examvariant1\\repositories\\imusicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicDtoExtensions.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\ExamVariant1\\Services\\Extensions\\MusicDtoExtensions.cs",
+              "RelativeDocumentMoniker": "ExamVariant1\\Services\\Extensions\\MusicDtoExtensions.cs",
+              "ToolTip": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\ExamVariant1\\Services\\Extensions\\MusicDtoExtensions.cs",
+              "RelativeToolTip": "ExamVariant1\\Services\\Extensions\\MusicDtoExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:09:10.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMusicRepository.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\ExamVariant1\\Repositories\\IMusicRepository.cs",
+              "RelativeDocumentMoniker": "ExamVariant1\\Repositories\\IMusicRepository.cs",
+              "ToolTip": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\ExamVariant1\\Repositories\\IMusicRepository.cs",
+              "RelativeToolTip": "ExamVariant1\\Repositories\\IMusicRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:36:17.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusicRepository.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\ExamVariant1\\Repositories\\MusicRepository.cs",
+              "RelativeDocumentMoniker": "ExamVariant1\\Repositories\\MusicRepository.cs",
+              "ToolTip": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\ExamVariant1\\Repositories\\MusicRepository.cs",
+              "RelativeToolTip": "ExamVariant1\\Repositories\\MusicRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:35:24.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicDto.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\ExamVariant1\\Services\\DTOs\\MusicDto.cs",
+              "RelativeDocumentMoniker": "ExamVariant1\\Services\\DTOs\\MusicDto.cs",
+              "ToolTip": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\ExamVariant1\\Services\\DTOs\\MusicDto.cs",
+              "RelativeToolTip": "ExamVariant1\\Services\\DTOs\\MusicDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:34:16.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musics.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\ExamVariant1\\DataAccess\\Entities\\Musics.cs",
+              "RelativeDocumentMoniker": "ExamVariant1\\DataAccess\\Entities\\Musics.cs",
+              "ToolTip": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\ExamVariant1\\DataAccess\\Entities\\Musics.cs",
+              "RelativeToolTip": "ExamVariant1\\DataAccess\\Entities\\Musics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:26:23.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamVariant1",
+              "DocumentMoniker": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\ExamVariant1\\ExamVariant1.csproj",
+              "RelativeDocumentMoniker": "ExamVariant1\\ExamVariant1.csproj",
+              "ToolTip": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\ExamVariant1\\ExamVariant1.csproj",
+              "RelativeToolTip": "ExamVariant1\\ExamVariant1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T15:23:29.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\ExamVariant1\\Program.cs",
+              "RelativeDocumentMoniker": "ExamVariant1\\Program.cs",
+              "ToolTip": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant1\\ExamVariant1\\Program.cs",
+              "RelativeToolTip": "ExamVariant1\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:17:25.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

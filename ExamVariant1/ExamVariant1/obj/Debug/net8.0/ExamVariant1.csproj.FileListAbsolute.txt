@@ -1,0 +1,14 @@
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\bin\Debug\net8.0\ExamVariant1.exe
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\bin\Debug\net8.0\ExamVariant1.deps.json
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\bin\Debug\net8.0\ExamVariant1.runtimeconfig.json
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\bin\Debug\net8.0\ExamVariant1.dll
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\bin\Debug\net8.0\ExamVariant1.pdb
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\obj\Debug\net8.0\ExamVariant1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\obj\Debug\net8.0\ExamVariant1.AssemblyInfoInputs.cache
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\obj\Debug\net8.0\ExamVariant1.AssemblyInfo.cs
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\obj\Debug\net8.0\ExamVariant1.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\obj\Debug\net8.0\ExamVariant1.dll
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\obj\Debug\net8.0\refint\ExamVariant1.dll
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\obj\Debug\net8.0\ExamVariant1.pdb
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\obj\Debug\net8.0\ExamVariant1.genruntimeconfig.cache
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\obj\Debug\net8.0\ref\ExamVariant1.dll
