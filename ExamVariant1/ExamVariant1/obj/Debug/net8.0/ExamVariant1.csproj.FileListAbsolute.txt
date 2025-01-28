@@ -12,3 +12,4 @@ D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\obj\Debug\net8.0\refi
 D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\obj\Debug\net8.0\ExamVariant1.pdb
 D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\obj\Debug\net8.0\ExamVariant1.genruntimeconfig.cache
 D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\obj\Debug\net8.0\ref\ExamVariant1.dll
+D:\GitHub Projects\OnlineLessons\ExamVariant1\ExamVariant1\obj\Debug\net8.0\ExamVariant1.sourcelink.json
