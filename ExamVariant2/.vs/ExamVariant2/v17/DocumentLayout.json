@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30A439AB-E975-46A1-BD3D-71B8323B597A}|ExamVariant2\\ExamVariant2.csproj|d:\\github projects\\onlinelessons\\examvariant2\\examvariant2\\dataaccess\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A439AB-E975-46A1-BD3D-71B8323B597A}|ExamVariant2\\ExamVariant2.csproj|solutionrelative:examvariant2\\dataaccess\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A439AB-E975-46A1-BD3D-71B8323B597A}|ExamVariant2\\ExamVariant2.csproj|d:\\github projects\\onlinelessons\\examvariant2\\examvariant2\\services\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A439AB-E975-46A1-BD3D-71B8323B597A}|ExamVariant2\\ExamVariant2.csproj|solutionrelative:examvariant2\\services\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A439AB-E975-46A1-BD3D-71B8323B597A}|ExamVariant2\\ExamVariant2.csproj|d:\\github projects\\onlinelessons\\examvariant2\\examvariant2\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A439AB-E975-46A1-BD3D-71B8323B597A}|ExamVariant2\\ExamVariant2.csproj|solutionrelative:examvariant2\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A439AB-E975-46A1-BD3D-71B8323B597A}|ExamVariant2\\ExamVariant2.csproj|d:\\github projects\\onlinelessons\\examvariant2\\examvariant2\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A439AB-E975-46A1-BD3D-71B8323B597A}|ExamVariant2\\ExamVariant2.csproj|solutionrelative:examvariant2\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A439AB-E975-46A1-BD3D-71B8323B597A}|ExamVariant2\\ExamVariant2.csproj|d:\\github projects\\onlinelessons\\examvariant2\\examvariant2\\examvariant2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30A439AB-E975-46A1-BD3D-71B8323B597A}|ExamVariant2\\ExamVariant2.csproj|solutionrelative:examvariant2\\examvariant2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A439AB-E975-46A1-BD3D-71B8323B597A}|ExamVariant2\\ExamVariant2.csproj|d:\\github projects\\onlinelessons\\examvariant2\\examvariant2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A439AB-E975-46A1-BD3D-71B8323B597A}|ExamVariant2\\ExamVariant2.csproj|solutionrelative:examvariant2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant2\\ExamVariant2\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "ExamVariant2\\Repositories\\IBookRepository.cs",
+              "ToolTip": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant2\\ExamVariant2\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "ExamVariant2\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T05:09:33.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant2\\ExamVariant2\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "ExamVariant2\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant2\\ExamVariant2\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "ExamVariant2\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T05:08:56.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant2\\ExamVariant2\\Services\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "ExamVariant2\\Services\\DTOs\\BookDto.cs",
+              "ToolTip": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant2\\ExamVariant2\\Services\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "ExamVariant2\\Services\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T05:06:39.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant2\\ExamVariant2\\DataAccess\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "ExamVariant2\\DataAccess\\Entities\\Book.cs",
+              "ToolTip": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant2\\ExamVariant2\\DataAccess\\Entities\\Book.cs",
+              "RelativeToolTip": "ExamVariant2\\DataAccess\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T05:04:06.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExamVariant2",
+              "DocumentMoniker": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant2\\ExamVariant2\\ExamVariant2.csproj",
+              "RelativeDocumentMoniker": "ExamVariant2\\ExamVariant2.csproj",
+              "ToolTip": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant2\\ExamVariant2\\ExamVariant2.csproj",
+              "RelativeToolTip": "ExamVariant2\\ExamVariant2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-01T04:59:59.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant2\\ExamVariant2\\Program.cs",
+              "RelativeDocumentMoniker": "ExamVariant2\\Program.cs",
+              "ToolTip": "D:\\GitHub Projects\\OnlineLessons\\ExamVariant2\\ExamVariant2\\Program.cs",
+              "RelativeToolTip": "ExamVariant2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T04:41:01.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
